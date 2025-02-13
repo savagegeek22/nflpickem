@@ -1,8 +1,6 @@
 <<<<<<< HEAD
-# NOTICE
-*4/16/2018 - The application is no longer maintained by it's original owner.*
 
-*Sept. 2020 - I made this fork to reflect some of the updates I had made (and taken from DonThorntonJr's fork) since the original maintenance had stopped and to bring it current to PHP 7.2 compatibility
+*Sept. 2023 - I made this fork to reflect some of the updates I had made (and taken from DonThorntonJr's fork) since the original maintenance had stopped and to bring it current to PHP 7.2 compatibility
 
 ---
 
