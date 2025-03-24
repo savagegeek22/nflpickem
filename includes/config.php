@@ -4,8 +4,8 @@
 # define('DB_HOSTNAME', '192.168.2.146');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'coastal2');
-define('DB_DATABASE', 'nflfamily');
+define('DB_PASSWORD', 'supersecret');
+define('DB_DATABASE', 'yourDBName');
 define('DB_PREFIX', 'nflp_');
 
 define('SITE_URL', 'https://nflpicks.savagegeek.com/');
@@ -15,7 +15,7 @@ define('USER_NAMES_DISPLAY', 3); // 1 = real names, 2 = usernames, 3 = usernames
 define('COMMENTS_SYSTEM', 'basic'); // basic, disqus, or disabled
 define('DISQUS_SHORTNAME', ''); // only needed if using Disqus for comments
 
-define('SITE_NAME', "SavageGeek NFL PickEm 2024");
+define('SITE_NAME', "Name of site you want here");
 define('SEASON_YEAR', '2024');
 define('ALWAYS_HIDE_PICKS', false); // Set to true to hide picks until games are locked out
 define('SERVER_TIMEZONE', 'America/Chicago'); // Your SERVER's timezone. NOTE: Game times will always be displayed in Eastern time, as they are on NFL.com. This setting makes sure cutoff times work properly.
